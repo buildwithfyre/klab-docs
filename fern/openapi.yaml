@@ -17,7 +17,7 @@ info:
     - OAuth2 flow is available for plant-specific operations.
     
   version: 1.0.18
-  title: Swagger Plant Store - OpenAPI 3.1
+  title: My API Sample
   termsOfService: "http://buildwithfern.com/tos/"
   contact:
     name: Plant Store API Support
